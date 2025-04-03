@@ -12,7 +12,7 @@ Este projeto demonstra um pipeline simples de OSINT com classificação de amea�
 
 1. Clone este repositório:
 ```sh
-git clone https://github.com/seuusuario/osint-classifier.git
+git clone https://github.com/LeoVichi/threats_classifier.git
 cd osint-classifier
 ```
 
