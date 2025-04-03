@@ -33,4 +33,4 @@ python classifier.py
 ```
 
 ### Autor
-Desenvolvido por [Leonardo Vichi](https://github.com/LeoVichi).
+Desenvolvido por [Leonardo Vichi](https://github.com/LeoVichi) para o Workshop intitulado "Bootcamp em Machine Learning para Estudos em Defesa: Inteligência Artificial, Redes Neurais, Mineração de Dados e Inteligência em Fontes Abertas" ministrado em 04ABR2025 na Escola de Guerra Naval por ocasião da 4ª Jornada de Prospectiva em Defesa.
